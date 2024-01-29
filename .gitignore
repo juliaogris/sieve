@@ -1,3 +1,5 @@
 /.hermit
 # javac output
 /SieveOfEratosthenes.class
+# clang output
+sieve
