@@ -4,12 +4,14 @@ Sieve contains comparable implementations of the [Sieve of Eratosthenes] in
 various programming languages:
 
 - Python
+- Java
 
 To build the Sieve source code in any of the provided languages, [clone] this
 repository and [activate Hermit] in your terminal.
 
     . ./bin/activate-hermit
     python sieve.py
+    javac sieve.java && java SieveOfEratosthenes
 
 <details>
   <summary>Hermit automatically installs tools.</summary>
