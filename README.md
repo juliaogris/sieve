@@ -6,6 +6,7 @@ various programming languages:
 - Python
 - Java
 - C
+- JavaScript
 
 To build the Sieve source code in any of the provided languages, [clone] this
 repository and [activate Hermit] in your terminal.
@@ -14,6 +15,7 @@ repository and [activate Hermit] in your terminal.
     python sieve.py
     javac sieve.java && java SieveOfEratosthenes
     clang -o sieve sieve.c && ./sieve
+    node sieve.js
 
 <details>
   <summary>Hermit automatically installs tools.</summary>
